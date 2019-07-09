@@ -1,1 +1,1 @@
-pirnt("hello git yang")
+pirnt("hello git 1990")
